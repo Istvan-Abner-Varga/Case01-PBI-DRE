@@ -6,7 +6,7 @@ Avaliação da lucratividade da empresa ao longo do tempo.
 ## 🔎 Visualização do Dashboard
 
 ![image](https://github.com/user-attachments/assets/8478bab7-9424-4181-bfc5-58a0e8c729ad)
-🔗 **Acesse o Power BI Online:** [Clique aqui](https://istvan-abner-varga.github.io/)
+🔗 **Acesse o Power BI Online:** [🔍 Visualizar](https://app.powerbi.com/view?r=eyJrIjoiODkzOTc2YjctMGU1Yi00OWU4LThmOGQtNDk0OGMzZjg2YWE3IiwidCI6ImFjNTU4MzUwLTJiZTQtNGNmYi1iMWIzLTY2YTQzZGI3YmU1OSJ9)
 
 ## 📝 **Análise do Relatório**
 - ✔️ Análise do resultado da empresa ao longo dos anos
